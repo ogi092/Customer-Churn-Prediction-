@@ -1,0 +1,8 @@
+seaborn
+pandas
+matplotlib
+pickleshare
+plotly
+scikit-learn==1.3.0
+joblib
+xgboost

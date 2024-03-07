@@ -1,0 +1,5 @@
+Dataset:
+https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+
+Deployment:
+https://huggingface.co/spaces/OgiHadicahyo/Churn_Modelling
